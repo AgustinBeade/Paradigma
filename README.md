@@ -1,2 +1,4 @@
 # Practica_AgustinBeade
 # Practica_AgustinBeade
+# Mi Proyecto
+# Paradigma
